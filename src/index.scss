@@ -1,0 +1,17 @@
+@import 'src/assets/styles/util.scss';
+@import 'src/assets/styles/variables.scss';
+@import 'src/assets/styles/mixins.scss';
+@import 'src/assets/fonts/helvetica/stylesheet.scss';
+@import 'src/assets/fonts/jost/stylesheet.scss';
+
+html {
+  overflow-x: hidden;
+  font-size: calcFontSizeForScreen($break-point-desktop);
+}
+
+body {
+  @include helvetica-dark;
+  font-size: 5rem;
+  margin: 0;
+  padding: 0;
+}

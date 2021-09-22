@@ -1,0 +1,4 @@
+@function calcFontSizeForScreen($screenSize) {
+  $screenSizeClean: $screenSize / ($screenSize * 0 + 1);
+  @return (100 * 10 / $screenSizeClean) + vw;
+}

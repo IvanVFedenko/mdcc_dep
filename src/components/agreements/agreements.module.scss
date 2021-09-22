@@ -1,0 +1,29 @@
+@import 'src/assets/styles/variables.scss';
+@import 'src/assets/styles/mixins.scss';
+
+.wrapper {
+  @include helvetica-dark;
+  color: $agreement-text-color;
+  padding: 10rem 25rem;
+  .title,
+  .subTitle {
+    font-size: 3.2rem;
+    font-weight: bold;
+  }
+
+  .subTitle {
+    font-size: 2.8rem;
+    margin-left: 3rem;
+  }
+
+  .mainText,
+  .subText {
+    font-size: 2rem;
+    font-weight: 400;
+    white-space: pre-wrap;
+  }
+
+  .subText {
+    margin-left: 3rem;
+  }
+}

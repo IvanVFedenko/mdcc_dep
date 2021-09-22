@@ -1,0 +1,43 @@
+@import 'src/assets/styles/variables.scss';
+
+@mixin helvetica-dark {
+  font-family: 'Helvetica', sans-serif;
+  color: $dark-text-color;
+}
+
+@mixin jost-regular {
+  font-family: 'Jost';
+  font-weight: 400;
+  color: $dark-text-color;
+}
+
+@mixin jost-bold {
+  font-family: 'Jost';
+  font-weight: 600;
+  color: $dark-text-color;
+}
+
+@mixin Header {
+  width: 192rem;
+  height: 92.5rem;
+}
+
+@mixin Footer {
+  width: 172rem;
+  height: 54.3rem;
+  background-color: $footer-main-color;
+  padding: 10rem;
+}
+
+@mixin Title {
+  font-size: 6.2rem;
+  font-weight: 700;
+  white-space: pre-line;
+}
+
+@mixin Text {
+  font-size: 1.8rem;
+  font-weight: 400;
+  white-space: pre-line;
+  color: $mainText-text-color;
+}

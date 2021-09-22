@@ -1,0 +1,9 @@
+@import 'src/assets/styles/variables.scss';
+@import 'src/assets/styles/mixins.scss';
+
+.wrapper {
+  padding: $project-basic-padding;
+
+  @media (max-width: $break-point-mobile) {
+  }
+}
