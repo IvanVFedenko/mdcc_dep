@@ -1,0 +1,145 @@
+{
+  "headerText": {
+    "agreements.address": "Mondo Blockchain GmbH\nKurpromenade 4\nWhite beach house\nD-23743 Grömitz\nGermany",
+    "agreements.role": "Managing Director:",
+    "agreements.name": "Albert Hild",
+    "agreements.registration": "Register number: HRB 20224 HL\nDistrict court: Lübeck\nVAT ID no .: DE338532867",
+    "agreements.email": "Email: info [at] mondo-blockchain.com\nWeb: www.mondo-blockchain.com"
+  },
+
+  "imprint": {
+    "Legal.title": "Legal Notice",
+    "Legal.text": "The contents of this website are created with utmost care. However, BCI - Business Community International GmbH does not accept any liability for the correctness, completeness and topicality of the content provided. The use of the content of the website is at the user's own risk. Contributions identified by name reflect the opinion of the respective author and not always the opinion of the provider.",
+    "Copyright.title": "Copyright and ancillary copyrights",
+    "Copyright.text1": "All information, articles and images published on this website and their arrangement are protected by copyright. Any use not permitted by copyright law requires the prior written consent of BCI - Business Community International GmbH or the respective rights holder. This applies in particular to the duplication, editing, translation, storage, processing or reproduction of content in databases or other electronic media and systems. Contents and rights of third parties are marked as such. The unauthorized duplication or distribution of individual contents or complete pages is not permitted and is punishable by law. Only the production of copies and downloads for personal, private and non-commercial use is permitted.",
+    "Copyright.text2": "The presentation of this website in external frames is only permitted with written permission. All trademarks used on our website enjoy trademark protection even if the respective rights holder is not explicitly named.",
+    "Links.title": "Links to other websites",
+    "Links.text": "The online offer contains links to other websites (so-called external links). The links provided have been researched and selected with the greatest possible care. BCI - Business Community International GmbH has no influence on the current and future design or the content of the linked pages. BCI - Business Community International GmbH is not responsible for the content of the linked pages and does not adopt the content as its own. Illegal, incorrect or incomplete content as well as damage resulting from the use or non-use of the information is solely the responsibility of the provider of the website to which reference was made.",
+    "Promotional.title": "Promotional information",
+    "Promotional.text": "The use of the contact data published in the context of the imprint obligation by third parties for sending unsolicited advertising and information materials is expressly prohibited. The operators of the pages expressly reserve the right to take legal action in the event of unsolicited sending of advertising information, such as spam emails."
+  },
+
+  "Privacy": {
+    "Introduction": {
+      "title": "1. Introduction",
+      "text1": "With the following information, we would like to give you, as a 'data subject', an overview of the processing of your personal data by us and your rights under data protection laws. The use of our Internet pages is possible without entering personal data; However, if you want to use special services of our company via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no legal basis for such processing, we generally obtain your consent.",
+      "text2": "The processing of personal data, such as your name, address or e-mail address, is always carried out in accordance with the General Data Protection Regulation (GDPR) and in accordance with the country-specific data protection regulations applicable to 'BCI GmbH'. By means of this data protection declaration, we would like to inform you about the scope and purpose of the personal data we collect, use and process.",
+      "text3": "As the controller, we have implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. Nevertheless, Internet-based data transmissions can generally have security gaps, so that absolute protection cannot be guaranteed. For this reason, you are free to transmit personal data to us by alternative means, for example by telephone or post."
+    },
+
+    "Controller": {
+      "title": "2. Controller",
+      "text1": "The controller within the meaning of the GDPR is:",
+      "text2": "MONDO GREEN GMBH",
+      "text3": "White Beach House\nSpa Promenade 4\n23743 Grömitz,\nGermany",
+      "text4": "Representative of the person responsible: Sebastian Baier"
+    },
+
+    "Protection": {
+      "title": "3. Data Protection Officer",
+      "text1": "You can contact the data protection officer as follows:",
+      "text2": "Dehe Consulting GmbH\nScheidertalstrasse 16\n65329 Hohenstein, 65329",
+      "text3": "Phone: 06128 741285",
+      "text4": "e-mail:  datenschutz[at]bci-holding.com",
+      "text5": "You can contact our data protection officer directly at any time with all questions and suggestions regarding data protection."
+    },
+    "Definitions": {
+      "title": "4. Definitions",
+      "text1": "The data protection declaration is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our privacy policy should be easy to read and understand for the public as well as for our customers and business partners. To ensure this, we would like to explain the terms used in advance.",
+      "text2": "We use the following terms in this privacy policy, among others:",
+      "terms": {
+        "title1": "Personal data",
+        "text1": "Personal data is any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more special features that express the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.",
+        "title2": "Data subject",
+        "text2": "Data subject is any identified or identifiable natural person whose personal data is processed by the controller (our company).",
+        "title3": "Processing",
+        "text3": "Processing means any operation or set of operations performed on personal data, with or without the aid of automated procedures, such as collection, recording, organisation, ordering, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination;  restriction, deletion or destruction.",
+        "title4": "Restriction of processing",
+        "text4": "Restriction of processing is the marking of stored personal data with the aim of restricting their future processing.",
+        "title5": "Profiling",
+        "text5": "Profiling is any type of automated processing of personal data consisting in the use of such personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects relating to the work performance, economic situation, health, personal preferences, interests, reliability, behaviour, location or movement of that natural person.",
+        "title6": "Pseudonymization",
+        "text6": "Pseudonymisation is the processing of personal data in such a way that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that this additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not assigned to an identified or identifiable natural person.",
+        "title7": "Processor",
+        "text7": "Processor is a natural or legal person, public authority, agency or other body that processes personal data on behalf of the controller.",
+        "title8": "Receiver",
+        "text8": "Recipient is a natural or legal person, public authority, agency or other body to which personal data is disclosed, regardless of whether it is a third party or not. However, public authorities that may receive personal data in the context of a specific investigation mandate under Union or Member State law shall not be considered as recipients.",
+        "title9": "Third",
+        "text9": "A third party is a natural or legal person, public authority, agency or body other than the data subject, controller, processor  and persons who, under the direct responsibility of the controller or  processor,  are authorised to process the personal data.",
+        "title10": "Consent",
+        "text10": "Consent is any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data concerning him or her."
+      }
+    },
+    "basis": {
+      "title": "5. Legal basis of processing",
+      "text1": "Art. 6 para. 1 lit.a GDPR (i.V.m.§ 15 para. 3 TMG) serves our company as the legal basis for processing operations in which we obtain consent for a specific processing purpose.",
+      "text2": "If the processing of personal data is necessary for the performance of a contract to which you are a party, as is the case, for example, with processing operations that are necessary for the delivery of goods or the provision of another service or consideration, the processing is based on Art. 6 para. 1 lit..b GDPR. The same applies to such processing operations that are necessary to carry out pre-contractual measures, for example in cases of inquiries about our products or services.",
+      "text3": "If our company is subject to a legal obligation that requires the processing of personal data, such as for the fulfilment of tax obligations, the processing is based on Art. 6 para. 1 lit..c GDPR.",
+      "text4": "In rare cases, the processing of personal data may become necessary to protect the vital interests of the data subject or another natural person. This would be the case, for example, if a visitor were injured in our company and his name, age, health insurance data or other vital information would then have to be passed on to a doctor, hospital or other third party. In this way, the processing would be based on Art. 6 para. 1 lit.d GDPR.",
+      "text5": "Ultimately, processing operations could be based on Article 6(1)(f)of the GDPR. Processing operations that are not covered by any of the aforementioned legal bases are based on this legal basis if the processing is necessary to safeguard a legitimate interest of our company or a third party, provided that the interests, fundamental rights and freedoms of the data subject do not prevail. We are permitted to carry out such processing operations in particular because they have been specifically mentioned by the European legislator. In this respect, he took the view that a legitimate interest could be assumed if you are a customer of our company (recital 47 sentence 2 GDPR)."
+    },
+    "Technology": {
+      "title": "6. Technology",
+      "title2": "6.1 SSL/TLS encryption",
+      "text1": "This site uses SSL or TLS encryption to ensure the security of data processing and to protect the transmission of confidential content, such as orders, login data or contact requests that you send to us as the operator. You can recognize an encrypted connection by the fact that the address line of the browser says a 'https://' instead of a 'http://' and the lock symbol in your browser line.",
+      "text2": "We use this technology to protect your transmitted data.",
+      "title3": "6.2 Data collection when visiting the website",
+      "text3": "When using our website for information purposes only, i.e. if you do not register or otherwise provide us with information, we only collect data that your browser transmits to our server (in so-called 'server log files'). Our website collects a series of general data and information each time you or an automated system access a page. This general data and information is stored in the log files of the server. The browser types and versions used, the operating system used by the accessing system, the website from which an accessing system reaches our website (so-called referrers), the sub-websites, which are accessed via an accessing system on our website, the date and time of access to the website, a shortened Internet Protocol address (anonymised IP address), the Internet service provider of the accessing system. When using this general data and information, we do not draw any conclusions about your person. Rather, this information is needed to:",
+      "text4": "to deliver the contents of our website correctly, to optimise the content of our website and the advertising for it, to ensure the long-term functionality of our IT systems and the technology of our website, and to provide law enforcement authorities with the information necessary for criminal prosecution in the event of a cyber attack. Therefore, we evaluate the collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject",
+      "text5": "The legal basis for data processing is Art. 6 para. 1  sentence 1  lit.fGDPR. Our legitimate interest follows from the purposes for data collection listed above."
+    },
+    "Cookies": {
+      "title1": "7. Cookies",
+      "title2": "7.1 General information on cookies",
+      "text1": "We use cookies on our website. These are small files that your browser automatically creates and that are stored on your IT system (laptop, tablet, smartphone, etc.) when you visit our site.",
+      "text2": "The cookie stores information that results in connection with the specific device used. However, this does not mean that we will gain direct knowledge of your identity.",
+      "text3": "On the one hand, the use of cookies serves to make the use of our offer more pleasant for you. For example, we use so-called session cookies to recognize that you have already visited individual pages of our website. These are automatically deleted after leaving our site.",
+      "text4": "In addition, we also use temporary cookies to optimize user-friendliness, which are stored on your device for a certain specified period of time. If you visit our site again to use our services, it will automatically be recognized that you have already been with us and which entries and settings you have made so that you do not have to enter them again.",
+      "text5": "On the other hand, we use cookies to statistically record the use of our website and to evaluate it for the purpose of optimizing our offer for you. These cookies allow us to automatically recognize that you have already been with us when you visit our site again. These cookies are automatically deleted after a defined period of time.",
+      "title3": "7.2 Legal basis for the use of cookies",
+      "text6": "The data processed by cookies, which are required for the proper functioning of the website, are therefore necessary to safeguard our legitimate interests and those of third parties in accordance with Art. 6  para. 1 sentence 1  lit.f GDPR.",
+      "text7": "For all other cookies, you have given your consent via our opt-in cookie banner within the meaning of Art. 6 para. 1  lit.a GDPR."
+    },
+    "rights": {
+      "title1": "8. Your rights as a data subject",
+      "title2": "8.1 Right to confirmation",
+      "text1": "You have the right to request confirmation from us as to whether personal data concerning you is being processed.",
+      "title3": "8.2 Right to information Art. 15 GDPR",
+      "text2": "You have the right to receive free information from us at any time about the personal data stored about you as well as a copy of this data in accordance with the statutory provisions.",
+      "title4": "8.3 Right to rectification Art. 16 GDPR",
+      "text3": "You have the right to request the rectification of inaccurate personal data concerning you. Furthermore, you have the right, taking into account the purposes of the processing, to request the completion of incomplete personal data.",
+      "title5": "8.4 Deletion Art. 17 GDPR",
+      "text4": "You have the right to demand from us that the personal data concerning you be deleted immediately if one of the reasons provided for by law applies and insofar as  the processing or storage is not necessary.",
+      "title6": "8.5 Restriction of processing Art. 18 GDPR",
+      "text5": "You have the right to demand that we restrict processing if one of the legal requirements is met.",
+      "title7": "8.6 Data portability Art. 20 GDPR",
+      "text6": "You have the right to receive the personal data concerning you that you have provided to us in a structured, commonly used and machine-readable format. You also have the right to transmit this data to another controller without hindrance from us to whom the personal data have been provided, provided that the processing is based on consent pursuant to Article 6 (1)(a) of the GDPR or Article 9 (2)  (a)of the GDPR or on a contract pursuant to Article 6 (1) (.b) of the GDPR and the processing is carried out by automated means, provided that the processing is not necessary for the performance of a task carried out in the public interest or in the exercise of official authority which has been delegated to us.",
+      "text7": "Furthermore, when exercising your right to data portability pursuant to Article 20(1) of the GDPR, you have the right to have the personal data transmitted directly from one controller to another, insofar as this is technically feasible and provided that this does not adversely affect the rights and freedoms of other persons.",
+      "title8": "8.7 Objection Art. 21 GDPR",
+      "text8": "You have the right, for reasons arising from your particular situation, to object at any time to the processing of personal data concerning you on the basis of Art. 6 para. 1 lit.e (data processing in the public interest) or f (data processing on the basis of a balancing of interests) GDPR.",
+      "text9": "This also applies to profiling based on these provisions within the meaning of Art. 4 No. 4 GDPR.",
+      "text10": "If you object, we will no longer process your personal data unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing serves to assert, exercise or defend legal claims.",
+      "text11": "In individual cases, we process personal data for direct marketing purposes. You can object at any time to the processing of personal data for the purpose of such advertising. This also applies to profiling so far as it is related to such direct advertising. If you object to our processing for direct marketing purposes, we will no longer process the personal data for these purposes.",
+      "text12": "In addition, you have the right, on grounds relating to your particular situation, to object to the processing of personal data concerning you by us for scientific or historical research purposes or for statistical purposes pursuant to Article 89(1) of the GDPR, unless such processing is necessary for the performance of a task carried out in the public interest.",
+      "text13": "You are free to exercise your right to object in connection with the use of information society services, notwithstanding Directive 2002/58/EC, by automated means using technical specifications.",
+      "title9": "8.8 Revocation of consent under data protection law",
+      "text14": "You have the right to revoke your consent to the processing of personal data at any time with effect for the future.",
+      "title10": "8.9 Complaint to a supervisory authority",
+      "text15": "You have the right to complain to a supervisory authority responsible for data protection about our processing of personal data."
+    },
+    "Routine": {
+      "title": "9. Routine storage, deletion and blocking of personal data",
+      "text1": "We process and store your personal data only for the period necessary to achieve the purpose of storage or if this has been provided for by the legal provisions to which our company is subject.",
+      "text2": "If the storage purpose no longer applies or if a prescribed storage period expires, the personal data will be routinely blocked or deleted in accordance with the statutory provisions."
+    },
+    "Duration": {
+      "title": "10. Duration of storage of personal data",
+      "text1": "The criterion for the duration of the storage of personal data is the respective legal retention period. After expiry of the period, the corresponding data will be routinely deleted, provided that they are no longer required for the fulfilment or initiation of the contract."
+    },
+    "Up-to-dateness": {
+      "title": "11. Up-to-dateness and changes to the data protection declaration",
+      "text1": "This privacy policy is currently valid and has the status: December 2020. Due to the further development of our Internet pages and offers or due to changed legal or official requirements, it may be necessary to change this data protection declaration. You can access and print out the current data protection declaration at any time on the website under 'https://mondo.green/datenschutzerklaerung/'.",
+      "text2": "This privacy policy has been created with the support of the data protection software: audits  MANAGER."
+    }
+  }
+}
